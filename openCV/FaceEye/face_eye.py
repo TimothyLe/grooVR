@@ -1,6 +1,9 @@
 import cv2
 import numpy as np
 
+# Note: Might need to run in terminal:
+# `DISPLAY=:0.0 ; export DISPLAY`
+
 # Cascades are huge XML files with features sets for facial profiles and other items
 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
