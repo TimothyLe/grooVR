@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Timothy_Le/Documents/grooVR/Roll Ball Demo/Assets/_Scenes/minigame.unity
+  isLoaded: 1
+  isActive: 1

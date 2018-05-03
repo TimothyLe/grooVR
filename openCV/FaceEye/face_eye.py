@@ -1,5 +1,6 @@
 import cv2 as cv
 import numpy as np
+import time
 
 # Note: Might need to run in terminal:
 # `DISPLAY=:0.0 ; export DISPLAY`
@@ -10,10 +11,17 @@ face_cascade = cv.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 eye_cascade = cv.CascadeClassifier('haarcascade_eye.xml')
 
-cap = cv.VideoCapture(1)
+# Correct ID is 0
+cap = cv.VideoCapture(0)
 
-while True:
+# Check if capture is open 
+print(cap.isOpened())
+
+time.sleep(5)
+
+while (cap.isOpened()):
 	ret, img = cap.read()
+	print(ret)
 	# Convert image to gray immediately
 	gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 	# Figures for detecting gray

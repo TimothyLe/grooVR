@@ -1,0 +1,119 @@
+Initialize engine version: 5.4.0f2 (14e9279a8947)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     1119 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\ConditionalExpression.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\ConditionalExpression.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\DinoFracture.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\DinoFracture.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.315 seconds
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Timothy_Le\Documents\Weightless_Remastered_1.01\Weightless_Remastered_1.01_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on PhotonHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on Sky
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on OVRScreenFade
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on PlayMakerFSM
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1931x2205 at 0,-1125
+<RI> Initialized touch support.
+Compositor failed to initialize.Compositor failed to initialize.VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_PathRegistryNotFound: "Installation path could not be located (110)"!
+ 
+(Filename:  Line: 286)
+
+The referenced script on this Behaviour (Game Object 'LeapMotionRiftPlayer') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'LeapMotionRiftPlayer') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'CameraLeft') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'HandController') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'CameraRight') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 1.697280 ms
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Ensure that the layers that you have allotted have UI Elements in them!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Set PointerSprite on LeapEventSystem to the sprite you want to use as your pointer.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Set PointerSprite on LeapEventSystem to the sprite you want to use as your pointer.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Average dt was excessive!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1220 -> priority: 1 
