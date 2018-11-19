@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - HiHat
+  - Snare
+  - FloorTom
+  - Ride
+  - Crash
+  - HighTom
   layers:
   - Default
   - TransparentFX
