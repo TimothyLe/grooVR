@@ -26,10 +26,10 @@ Manual Installation:
 - Locate grooVR.apk on your Android device and install it. This step requires permissions to install untrusted apps and varies between devices
 - GrooVR app icon should appear on your device. Tap it to run the application
 
-#### Unity3d
+#### Unity3d [https://unity3d.com/]
 Unity3d is a cross-platform, real-time game engine on which GrooVR is built off of. It supports Android and iPhone app development, however GrooVR is only officially supported on Android.
 
-#### React Native
+#### React Native [https://facebook.github.io/react-native/]
 React Native is a framework for building native mobile apps using JavaScript and React. Using React Native allows you to build your app faster while developing.
 
 #### Modifying Source
@@ -40,4 +40,4 @@ Special thanks to:
 - Ahmed Banafa (Project Advisor)
 - Robert Bruce (Project Mentor)
 - Rod Fatoohi  (CmpE Associate Chair)
-- Sevastian Marevoy (Unity Assets)
+- Sevastian Marevoy (Unity Assets) [https://assetstore.unity.com/publishers/26980]
