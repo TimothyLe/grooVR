@@ -1,7 +1,18 @@
 # GrooVR
+## SJSU Senior Project Group 11
+### A. Belamide, N. Frangos, T. Le
 
-## This is only a test.
+#### Overview
+Fill in the blanks by replacing this text.
 
-### SJSU Senior Project Group 11
+#### Unity3D
+Fill in the blanks by replacing this text.
 
-#### A. Belamide, N. Frangos, T. Le
+#### React Native
+Fill in the blanks by replacing this text.
+
+#### Building the App
+Fill in the blanks by replacing this text.
+
+#### Modifying Source
+Fill in the blanks by replacing this text.
