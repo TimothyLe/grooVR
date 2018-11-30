@@ -6,12 +6,14 @@ public class ControllerGrab : MonoBehaviour {
     public bool isContact = false;
     public bool isGrabbed = false;
     public bool oneShot = false;
+
     public AudioClip SnareClip;
     public AudioClip FloorTomClip;
     public AudioClip HighTomClip;
     public AudioClip RideClip;
     public AudioClip HiHatClip;
     public AudioClip CrashClip;
+    public AudioClip BassClip;
 
     private AudioSource source;
     float volMin = 0.5f;
@@ -40,7 +42,15 @@ public class ControllerGrab : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if(isContact == true)
+        if (GvrController.ClickButtonDown)
+        {
+            if (oneShot == false)
+            {
+                source.PlayOneShot(BassClip, 1F);
+                oneShot = true;
+            }
+        }
+        else if (isContact == true)
         {
             if (oneShot == false)
             {
@@ -116,10 +126,4 @@ public class ControllerGrab : MonoBehaviour {
         isContact = false;
         Debug.Log("Collision Exit.");
     }
-
-    //void OnCollisionEnter(Collision coll)
-    //{
-    //    Debug.Log("coll.collider.name");
-    //    hitVol = coll.relativeVelocity.magnitude * velToVol;
-    //}
 }
