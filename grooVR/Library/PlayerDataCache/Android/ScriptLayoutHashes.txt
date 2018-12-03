@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/Unity3D Projects/grooVR/grooVR/APKs/grooVR-Test.apk
+C:/Users/Nicholas/Documents/GrooVR/grooVR/APKs/lighting_test.apk
 SceneListBegin?
 Assets/GoogleVR/Demos/Scenes/GrabDropDemo.unity
 SceneListEnd?
