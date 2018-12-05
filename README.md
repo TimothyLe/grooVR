@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# grooVR
-Please go to the `dev` branch for more information
-=======
 # GrooVR
 ## SJSU Senior Project Group 11 (Spring 2018 - Fall 2018)
 ### A. Belamide, N. Frangos, T. Le
@@ -77,4 +73,3 @@ Special thanks to:
 - Sevastian Marevoy (Unity Assets) [https://assetstore.unity.com/publishers/26980]  
 - Jiulong Wang (React Assets) [https://www.npmjs.com/package/react-native-unity-view]
 
->>>>>>> dev
