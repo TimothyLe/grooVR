@@ -1,4 +1,4 @@
-# GrooVR
+# GrooVR (pre-release v0.1)
 ## SJSU Senior Project Group 11 (Spring 2018 - Fall 2018)
 ### A. Belamide, N. Frangos, T. Le
 
