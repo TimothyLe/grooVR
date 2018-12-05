@@ -1,10 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DaydreamElements\Elements\SwipeMenu\Demo\Scripts\PaperPlaneSpawner.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleVR\Demos\Scripts\GrabDropDemo\ControllerGrab.cs">
     <Files>
-      <File FileName="Assets\DaydreamElements\Elements\SwipeMenu\Demo\Scripts\PaperPlaneSpawner.cs" Line="44" Column="74" />
-      <File FileName="Assets\DaydreamElements\Elements\SwipeMenu\Demo\Scripts\ColorUtil.cs" Line="31" Column="42" />
-      <File FileName="Assets\DaydreamElements\Elements\SwipeMenu\Demo\Scripts\RigidPaperAirplane.cs" Line="28" Column="1" />
+      <File FileName="Assets\GoogleVR\Demos\Scripts\GrabDropDemo\ControllerGrab.cs" Line="232" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

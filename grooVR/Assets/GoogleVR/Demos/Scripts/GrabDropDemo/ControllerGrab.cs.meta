@@ -4,9 +4,36 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - clip: {fileID: 8300000, guid: 187f3676149694364858bfcf8273c523, type: 3}
-  - source: {instanceID: 0}
-  - objectGrabbed: {instanceID: 0}
+  - SnareClip: {instanceID: 0}
+  - FloorTomClip: {instanceID: 0}
+  - HighTomClip: {instanceID: 0}
+  - RideClip: {instanceID: 0}
+  - HiHatClip: {instanceID: 0}
+  - CrashClip: {instanceID: 0}
+  - BassClip: {instanceID: 0}
+  - SnareClip2: {instanceID: 0}
+  - FloorTomClip2: {instanceID: 0}
+  - HighTomClip2: {instanceID: 0}
+  - RideClip2: {instanceID: 0}
+  - HiHatClip2: {instanceID: 0}
+  - CrashClip2: {instanceID: 0}
+  - BassClip2: {instanceID: 0}
+  - SnareClip3: {instanceID: 0}
+  - FloorTomClip3: {instanceID: 0}
+  - HighTomClip3: {instanceID: 0}
+  - RideClip3: {instanceID: 0}
+  - HiHatClip3: {instanceID: 0}
+  - CrashClip3: {instanceID: 0}
+  - BassClip3: {instanceID: 0}
+  - SnareClip4: {instanceID: 0}
+  - FloorTomClip4: {instanceID: 0}
+  - HighTomClip4: {instanceID: 0}
+  - RideClip4: {instanceID: 0}
+  - HiHatClip4: {instanceID: 0}
+  - CrashClip4: {instanceID: 0}
+  - BassClip4: {instanceID: 0}
+  - DrumHead: {instanceID: 0}
+  - Bass: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
