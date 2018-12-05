@@ -14,6 +14,8 @@ Hardware:
 Software:
 - Android OS 7.0 or later
 - Google VR Services
+- React Native 0.57
+- NPM 5.5.1
 
 #### App Setup
 React Native Intallation:  
