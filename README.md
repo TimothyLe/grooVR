@@ -2,6 +2,8 @@
 ## SJSU Senior Project Group 11 (Spring 2018 - Fall 2018)
 ### A. Belamide, N. Frangos, T. Le
 
+#### PLEASE PULL .apk FILES FROM dev BRANCH!
+
 #### Overview
 GrooVR is an open-source VR application. Its primary goal is to make access to expensive equipment such as a drumset readily available to everyone. Miminal hardware is used to keep the startup cost low and all development tools used are free.
 
